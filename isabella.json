@@ -1,0 +1,15 @@
+{
+    "doctors": [
+    {
+        "id": 12,
+        "name": "Isabella",
+        "surname": "Wilson",
+        "age": 32,
+        "qualification": "DDS",
+        "specialization": "Oral and Maxillofacial Surgery",
+        "specialization_description": "Oral and maxillofacial surgeons diagnose and surgically treat diseases, injuries, and defects of the mouth, jaws, face, and neck. They perform a variety of surgical procedures, including tooth extractions, dental implants, jaw surgery, tumor removal, and reconstructive surgery. They administer anesthesia, provide pre- and post-operative care, collaborate with other healthcare professionals, handle emergencies, educate patients, and stay updated through continuing education and research. Their goal is to enhance oral health, function, and aesthetics for patients.",
+        "gender": "Female",
+        "photo": "https://github.com/itradebtc/doctorsimages/blob/main/12.jpg?raw=true"
+      }
+        ]
+}

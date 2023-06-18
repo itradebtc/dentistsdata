@@ -1,0 +1,136 @@
+{
+    "doctors": [
+    {
+        "id": 1,
+        "name": "John",
+        "surname": "Doe",
+        "age": 39,
+        "qualification": "DDS",
+        "specialization": "Orthodontics",
+        "specialization_description": "Orthodontists specialize in diagnosis and treat dental and facial irregularities, focusing on correcting misalignments of teeth and jaws. Their job involves examining patients, creating personalized treatment plans, applying braces or aligners, monitoring progress, educating patients, collaborating with other dental specialists, providing post-treatment care, and staying updated with advancements in the field. By improving alignment and aesthetics, orthodontists enhance oral health, functionality, and self-confidence.",
+        "gender": "Male",
+        "photo": "https://github.com/itradebtc/doctorsimages/blob/main/1.jpg?raw=true"
+      },
+      {
+        "id": 2,
+        "name": "Jane",
+        "surname": "Smith",
+        "age": 42,
+        "qualification": "DMD",
+        "specialization": "Endodontics",
+        "specialization_description": "Endodontists specialize in diagnosing and treating dental conditions related to the dental pulp. Their job involves performing root canal treatments, addressing dental trauma, providing pain management, collaborating with other specialists, educating patients, and staying updated with advancements in the field. They aim to save natural teeth, alleviate pain, and maintain oral health through meticulous treatment and care.",
+        "gender": "Female",
+        "photo": "https://github.com/itradebtc/doctorsimages/blob/main/2.jpg?raw=true"
+        },
+      {
+        "id": 3,
+        "name": "David",
+        "surname": "Johnson",
+        "age": 38,
+        "qualification": "DMD",
+        "specialization": "Pediatric Dentistry",
+        "specialization_description": "Pediatric dentists specialize in providing comprehensive dental care for infants, children, adolescents, and individuals with special healthcare needs. Their job involves preventive care, dental examinations, diagnosis and treatment of dental conditions in children, behavior management techniques, addressing special healthcare needs, handling dental emergencies, dental education and counseling for parents, and collaborating with other healthcare professionals. They focus on promoting oral health, early intervention, and creating positive dental experiences for children.",
+        "gender": "Male",
+        "photo": "https://github.com/itradebtc/doctorsimages/blob/main/3.jpg?raw=true"
+      },
+      {
+        "id": 4,
+        "name": "Sarah",
+        "surname": "Williams",
+        "age": 47,
+        "qualification": "DDS",
+        "specialization": "Periodontics",
+        "specialization_description": "Periodontists specialize in diagnosing, treating, and preventing gum diseases and conditions that affect oral health. They diagnose gum diseases, develop treatment plans, perform non-surgical and surgical procedures, place dental implants, and manage oral inflammation and infections. They provide ongoing care, collaborate with other dental professionals, and educate patients on oral hygiene. Periodontists play a crucial role in maintaining healthy gums, supporting structures, and overall oral health.",
+        "gender": "Female",
+        "photo": "https://github.com/itradebtc/doctorsimages/blob/main/4.jpg?raw=true"
+      },
+      {
+        "id": 5,
+        "name": "Michael",
+        "surname": "Brown",
+        "age": 41,
+        "qualification": "DMD",
+        "specialization": "Prosthodontics",
+        "specialization_description": "Prosthodontists specialize in restoring oral function and aesthetics for patients with missing or damaged teeth. Their job involves assessing patients' oral health, creating treatment plans, designing and placing dental prostheses, including crowns, bridges, dentures, and implants. They also focus on cosmetic dentistry and collaborate with other specialists, provide follow-up care, and educate patients on oral hygiene and maintenance. Prosthodontists play a crucial role in enhancing patients' oral health, function, and appearance through specialized dental restorations.",
+        "gender": "Male",
+        "photo": "https://github.com/itradebtc/doctorsimages/blob/main/5.jpg?raw=true"
+      },
+      {
+        "id": 6,
+        "name": "Emily",
+        "surname": "Davis",
+        "age": 39,
+        "qualification": "DDS",
+        "specialization": "Oral Surgery",
+        "specialization_description": "Oral surgeons, also known as oral and maxillofacial surgeons, perform surgical procedures related to the mouth, jaws, face, and neck. Their job involves diagnosing and evaluating oral and facial conditions, administering anesthesia, providing preoperative and postoperative care, collaborating with other specialists, managing trauma and TMJ disorders, and staying updated with advancements in the field. They improve oral health, restore function and aesthetics, and contribute to patients' overall well-being through surgical interventions.",
+        "gender": "Female",
+        "photo": "https://github.com/itradebtc/doctorsimages/blob/main/6.jpg?raw=true"
+      },
+      {
+        "id": 7,
+        "name": "Andrew",
+        "surname": "Wilson",
+        "age": 45,
+        "qualification": "DMD",
+        "specialization": "Cosmetic Dentistry",
+        "specialization_description": "Cosmetic dentists specialize in improving the appearance of patients' teeth and smiles. They perform consultations, assessments, and develop personalized treatment plans. Their responsibilities include teeth whitening, applying dental veneers, bonding, dental implants, orthodontic treatments, gum reshaping, and smile makeovers. They educate patients, provide guidance on oral hygiene, and collaborate with other dental specialists. Overall, cosmetic dentists enhance the aesthetic appeal of smiles while promoting oral health and boosting patients' self-confidence.",
+        "gender": "Male",
+        "photo": "https://github.com/itradebtc/doctorsimages/blob/main/7.jpg?raw=true"
+      },
+      {
+        "id": 8,
+        "name": "Olivia",
+        "surname": "Taylor",
+        "age": 36,
+        "qualification": "DDS",
+        "specialization": "Oral Pathology",
+        "specialization_description": "Oral pathologists specialize in diagnosing diseases and abnormalities that affect the oral and maxillofacial region. They analyze tissue samples, interpret diagnostic tests, and collaborate with other dental and medical professionals to develop comprehensive treatment plans. They may conduct research, educate others, advocate for oral health, and may also be involved in forensic odontology. Oral pathologists contribute to improving oral health outcomes through accurate diagnoses and appropriate management of oral diseases.",
+        "gender": "Female",
+        "photo": "https://github.com/itradebtc/doctorsimages/blob/main/8.jpg?raw=true"
+      },
+      {
+        "id": 9,
+        "name": "Matthew",
+        "surname": "Anderson",
+        "age": 43,
+        "qualification": "DMD",
+        "specialization": "Dental Implants",
+        "specialization_description": "Dental implant specialists are responsible for evaluating patients' suitability for dental implants, planning and surgically placing implants in the jawbone, attaching prosthetic restorations, and providing ongoing care and maintenance. They collaborate with other dental professionals and stay updated with advancements in implant dentistry. Their role is to provide durable and natural-looking tooth replacements that improve oral function and restore aesthetics.",
+        "gender": "Male",
+        "photo": "https://github.com/itradebtc/doctorsimages/blob/main/9.jpg?raw=true"
+      },
+      {
+        "id": 10,
+        "name": "Sophia",
+        "surname": "Martinez",
+        "age": 40,
+        "qualification": "DDS",
+        "specialization": "Geriatric Dentistry",
+        "specialization_description": "Geriatric dentists specialize in providing dental care to older adults. Their job involves conducting comprehensive assessments, creating personalized treatment plans, emphasizing preventive care, addressing dental issues specific to aging, managing medical conditions, performing restorative procedures, fitting dental prosthetics, and providing palliative care when needed. They adapt their approach to accommodate age-related factors and collaborate with healthcare professionals to ensure optimal oral health and quality of life for elderly patients.",
+        "gender": "Female",
+        "photo": "https://github.com/itradebtc/doctorsimages/blob/main/10.jpg?raw=true"
+      },
+      {
+        "id": 11,
+        "name": "Daniel",
+        "surname": "Brown",
+        "age": 34,
+        "qualification": "DMD",
+        "specialization": "Restorative Dentistry",
+        "specialization_description": "Restorative dentists diagnose, treat, and prevent dental conditions related to tooth restoration and replacement. They perform dental examinations, provide various restorative treatments such as fillings, crowns, bridges, implants, and dentures. They may also perform endodontic procedures like root canals and incorporate cosmetic dentistry techniques. Restorative dentists collaborate with other specialists, educate patients on oral hygiene, and emphasize preventive care. Their work aims to restore oral health, function, and aesthetics, improving patients' overall well-being.",
+        "gender": "Male",
+        "photo": "https://github.com/itradebtc/doctorsimages/blob/main/11.jpg?raw=true"
+      },
+      {
+        "id": 12,
+        "name": "Isabella",
+        "surname": "Wilson",
+        "age": 32,
+        "qualification": "DDS",
+        "specialization": "Oral and Maxillofacial Surgery",
+        "specialization_description": "Oral and maxillofacial surgeons diagnose and surgically treat diseases, injuries, and defects of the mouth, jaws, face, and neck. They perform a variety of surgical procedures, including tooth extractions, dental implants, jaw surgery, tumor removal, and reconstructive surgery. They administer anesthesia, provide pre- and post-operative care, collaborate with other healthcare professionals, handle emergencies, educate patients, and stay updated through continuing education and research. Their goal is to enhance oral health, function, and aesthetics for patients.",
+        "gender": "Female",
+        "photo": "https://github.com/itradebtc/doctorsimages/blob/main/12.jpg?raw=true"
+      }
+        ]
+}

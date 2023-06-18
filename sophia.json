@@ -1,0 +1,15 @@
+{
+    "doctors": [
+   	  {
+        "id": 10,
+        "name": "Sophia",
+        "surname": "Martinez",
+        "age": 40,
+        "qualification": "DDS",
+        "specialization": "Geriatric Dentistry",
+        "specialization_description": "Geriatric dentists specialize in providing dental care to older adults. Their job involves conducting comprehensive assessments, creating personalized treatment plans, emphasizing preventive care, addressing dental issues specific to aging, managing medical conditions, performing restorative procedures, fitting dental prosthetics, and providing palliative care when needed. They adapt their approach to accommodate age-related factors and collaborate with healthcare professionals to ensure optimal oral health and quality of life for elderly patients.",
+        "gender": "Female",
+        "photo": "https://github.com/itradebtc/doctorsimages/blob/main/10.jpg?raw=true"
+      }
+        ]
+}

@@ -1,0 +1,15 @@
+{
+    "doctors": [
+    {
+        "id": 6,
+        "name": "Emily",
+        "surname": "Davis",
+        "age": 39,
+        "qualification": "DDS",
+        "specialization": "Oral Surgery",
+        "specialization_description": "Oral surgeons, also known as oral and maxillofacial surgeons, perform surgical procedures related to the mouth, jaws, face, and neck. Their job involves diagnosing and evaluating oral and facial conditions, administering anesthesia, providing preoperative and postoperative care, collaborating with other specialists, managing trauma and TMJ disorders, and staying updated with advancements in the field. They improve oral health, restore function and aesthetics, and contribute to patients' overall well-being through surgical interventions.",
+        "gender": "Female",
+        "photo": "https://github.com/itradebtc/doctorsimages/blob/main/6.jpg?raw=true"
+      }
+        ]
+}

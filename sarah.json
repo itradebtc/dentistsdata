@@ -1,0 +1,15 @@
+{
+    "doctors": [
+    {
+        "id": 4,
+        "name": "Sarah",
+        "surname": "Williams",
+        "age": 47,
+        "qualification": "DDS",
+        "specialization": "Periodontics",
+        "specialization_description": "Periodontists specialize in diagnosing, treating, and preventing gum diseases and conditions that affect oral health. They diagnose gum diseases, develop treatment plans, perform non-surgical and surgical procedures, place dental implants, and manage oral inflammation and infections. They provide ongoing care, collaborate with other dental professionals, and educate patients on oral hygiene. Periodontists play a crucial role in maintaining healthy gums, supporting structures, and overall oral health.",
+        "gender": "Female",
+        "photo": "https://github.com/itradebtc/doctorsimages/blob/main/4.jpg?raw=true"
+      }
+        ]
+}

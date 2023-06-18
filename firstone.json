@@ -1,0 +1,59 @@
+{
+    "doctors": [
+       {
+        "id": 3,
+        "name": "David",
+        "surname": "Johnson",
+        "age": 38,
+        "qualification": "DMD",
+        "specialization": "Pediatric Dentistry",
+        "specialization_description": "Pediatric dentists specialize in providing comprehensive dental care for infants, children, adolescents, and individuals with special healthcare needs. Their job involves preventive care, dental examinations, diagnosis and treatment of dental conditions in children, behavior management techniques, addressing special healthcare needs, handling dental emergencies, dental education and counseling for parents, and collaborating with other healthcare professionals. They focus on promoting oral health, early intervention, and creating positive dental experiences for children.",
+        "gender": "Male",
+        "photo": "https://github.com/itradebtc/doctorsimages/blob/main/3.jpg?raw=true"
+      },
+      {
+        "id": 4,
+        "name": "Sarah",
+        "surname": "Williams",
+        "age": 47,
+        "qualification": "DDS",
+        "specialization": "Periodontics",
+        "specialization_description": "Periodontists specialize in diagnosing, treating, and preventing gum diseases and conditions that affect oral health. They diagnose gum diseases, develop treatment plans, perform non-surgical and surgical procedures, place dental implants, and manage oral inflammation and infections. They provide ongoing care, collaborate with other dental professionals, and educate patients on oral hygiene. Periodontists play a crucial role in maintaining healthy gums, supporting structures, and overall oral health.",
+        "gender": "Female",
+        "photo": "https://github.com/itradebtc/doctorsimages/blob/main/4.jpg?raw=true"
+      },
+      {
+        "id": 5,
+        "name": "Michael",
+        "surname": "Brown",
+        "age": 41,
+        "qualification": "DMD",
+        "specialization": "Prosthodontics",
+        "specialization_description": "Prosthodontists specialize in restoring oral function and aesthetics for patients with missing or damaged teeth. Their job involves assessing patients' oral health, creating treatment plans, designing and placing dental prostheses, including crowns, bridges, dentures, and implants. They also focus on cosmetic dentistry and collaborate with other specialists, provide follow-up care, and educate patients on oral hygiene and maintenance. Prosthodontists play a crucial role in enhancing patients' oral health, function, and appearance through specialized dental restorations.",
+        "gender": "Male",
+        "photo": "https://github.com/itradebtc/doctorsimages/blob/main/5.jpg?raw=true"
+      },
+      {
+        "id": 7,
+        "name": "Andrew",
+        "surname": "Wilson",
+        "age": 45,
+        "qualification": "DMD",
+        "specialization": "Cosmetic Dentistry",
+        "specialization_description": "Cosmetic dentists specialize in improving the appearance of patients' teeth and smiles. They perform consultations, assessments, and develop personalized treatment plans. Their responsibilities include teeth whitening, applying dental veneers, bonding, dental implants, orthodontic treatments, gum reshaping, and smile makeovers. They educate patients, provide guidance on oral hygiene, and collaborate with other dental specialists. Overall, cosmetic dentists enhance the aesthetic appeal of smiles while promoting oral health and boosting patients' self-confidence.",
+        "gender": "Male",
+        "photo": "https://github.com/itradebtc/doctorsimages/blob/main/7.jpg?raw=true"
+      },
+      {
+        "id": 8,
+        "name": "Olivia",
+        "surname": "Taylor",
+        "age": 36,
+        "qualification": "DDS",
+        "specialization": "Oral Pathology",
+        "specialization_description": "Oral pathologists specialize in diagnosing diseases and abnormalities that affect the oral and maxillofacial region. They analyze tissue samples, interpret diagnostic tests, and collaborate with other dental and medical professionals to develop comprehensive treatment plans. They may conduct research, educate others, advocate for oral health, and may also be involved in forensic odontology. Oral pathologists contribute to improving oral health outcomes through accurate diagnoses and appropriate management of oral diseases.",
+        "gender": "Female",
+        "photo": "https://github.com/itradebtc/doctorsimages/blob/main/8.jpg?raw=true"
+      }
+        ]
+}

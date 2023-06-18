@@ -1,0 +1,15 @@
+{
+    "doctors": [
+    {
+        "id": 7,
+        "name": "Andrew",
+        "surname": "Wilson",
+        "age": 45,
+        "qualification": "DMD",
+        "specialization": "Cosmetic Dentistry",
+        "specialization_description": "Cosmetic dentists specialize in improving the appearance of patients' teeth and smiles. They perform consultations, assessments, and develop personalized treatment plans. Their responsibilities include teeth whitening, applying dental veneers, bonding, dental implants, orthodontic treatments, gum reshaping, and smile makeovers. They educate patients, provide guidance on oral hygiene, and collaborate with other dental specialists. Overall, cosmetic dentists enhance the aesthetic appeal of smiles while promoting oral health and boosting patients' self-confidence.",
+        "gender": "Male",
+        "photo": "https://github.com/itradebtc/doctorsimages/blob/main/7.jpg?raw=true"
+      }
+        ]
+}

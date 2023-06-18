@@ -1,0 +1,15 @@
+{
+    "doctors": [
+   {
+        "id": 5,
+        "name": "Michael",
+        "surname": "Brown",
+        "age": 41,
+        "qualification": "DMD",
+        "specialization": "Prosthodontics",
+        "specialization_description": "Prosthodontists specialize in restoring oral function and aesthetics for patients with missing or damaged teeth. Their job involves assessing patients' oral health, creating treatment plans, designing and placing dental prostheses, including crowns, bridges, dentures, and implants. They also focus on cosmetic dentistry and collaborate with other specialists, provide follow-up care, and educate patients on oral hygiene and maintenance. Prosthodontists play a crucial role in enhancing patients' oral health, function, and appearance through specialized dental restorations.",
+        "gender": "Male",
+        "photo": "https://github.com/itradebtc/doctorsimages/blob/main/5.jpg?raw=true"
+      }
+        ]
+}

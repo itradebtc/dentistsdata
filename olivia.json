@@ -1,0 +1,15 @@
+{
+    "doctors": [
+    {
+        "id": 8,
+        "name": "Olivia",
+        "surname": "Taylor",
+        "age": 36,
+        "qualification": "DDS",
+        "specialization": "Oral Pathology",
+        "specialization_description": "Oral pathologists specialize in diagnosing diseases and abnormalities that affect the oral and maxillofacial region. They analyze tissue samples, interpret diagnostic tests, and collaborate with other dental and medical professionals to develop comprehensive treatment plans. They may conduct research, educate others, advocate for oral health, and may also be involved in forensic odontology. Oral pathologists contribute to improving oral health outcomes through accurate diagnoses and appropriate management of oral diseases.",
+        "gender": "Female",
+        "photo": "https://github.com/itradebtc/doctorsimages/blob/main/8.jpg?raw=true"
+      }
+        ]
+}

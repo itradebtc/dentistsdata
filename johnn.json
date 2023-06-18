@@ -1,0 +1,15 @@
+{
+    "doctors": [
+    {
+        "id": 1,
+        "name": "John",
+        "surname": "Doe",
+        "age": 35,
+        "qualification": "DDS",
+        "specialization": "Orthodontics",
+        "specialization_description": "Orthodontists specialize in diagnosis and treat dental and facial irregularities, focusing on correcting misalignments of teeth and jaws. Their job involves examining patients, creating personalized treatment plans, applying braces or aligners, monitoring progress, educating patients, collaborating with other dental specialists, providing post-treatment care, and staying updated with advancements in the field. By improving alignment and aesthetics, orthodontists enhance oral health, functionality, and self-confidence.",
+        "gender": "Male",
+        "photo": "https://github.com/itradebtc/doctorsimages/blob/main/1.jpg?raw=true"
+      }
+        ]
+}

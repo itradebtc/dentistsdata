@@ -1,0 +1,15 @@
+{
+    "doctors": [
+    {
+        "id": 9,
+        "name": "Matthew",
+        "surname": "Anderson",
+        "age": 43,
+        "qualification": "DMD",
+        "specialization": "Dental Implants",
+        "specialization_description": "Dental implant specialists are responsible for evaluating patients' suitability for dental implants, planning and surgically placing implants in the jawbone, attaching prosthetic restorations, and providing ongoing care and maintenance. They collaborate with other dental professionals and stay updated with advancements in implant dentistry. Their role is to provide durable and natural-looking tooth replacements that improve oral function and restore aesthetics.",
+        "gender": "Male",
+        "photo": "https://github.com/itradebtc/doctorsimages/blob/main/9.jpg?raw=true"
+      }
+        ]
+}

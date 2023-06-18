@@ -1,0 +1,15 @@
+{
+    "doctors": [
+    {
+        "id": 11,
+        "name": "Daniel",
+        "surname": "Brown",
+        "age": 34,
+        "qualification": "DMD",
+        "specialization": "Restorative Dentistry",
+        "specialization_description": "Restorative dentists diagnose, treat, and prevent dental conditions related to tooth restoration and replacement. They perform dental examinations, provide various restorative treatments such as fillings, crowns, bridges, implants, and dentures. They may also perform endodontic procedures like root canals and incorporate cosmetic dentistry techniques. Restorative dentists collaborate with other specialists, educate patients on oral hygiene, and emphasize preventive care. Their work aims to restore oral health, function, and aesthetics, improving patients' overall well-being.",
+        "gender": "Male",
+        "photo": "https://github.com/itradebtc/doctorsimages/blob/main/11.jpg?raw=true"
+      }
+        ]
+}
