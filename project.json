@@ -1,0 +1,67 @@
+{
+    "projects": [
+    {
+      "id": 1,
+      "name": "dental",
+      "title": "Dental App",
+      "madeWith": "Next.Js",
+      "image": "https://github.com/itradebtc/doctorsimages/blob/main/Dental%20App.png?raw=true",
+      "github": "https://github.com/itradebtc/Capstone-Project",
+      "site": "https://medicalappcapstone.vercel.app/",
+  },
+  {
+      "id": 2,
+      "name": "portfo",
+      "title": "First Portfolio",
+      "madeWith": ["Html, Css, Javascript"],
+      "image": "https://github.com/itradebtc/doctorsimages/blob/main/First%20Portfolio.png?raw=true",
+      "github": "https://github.com/itradebtc/random/blob/main/src/firstportfolio.html",
+      "site": "https://itradebtc.github.io/random/src/firstportfolio.html",
+  },
+  {
+      "id": 3,
+      "name": "timeTracker",
+      "title": "Time Tracker Template",
+      "madeWith": ["Html,Css"],
+      "image": "https://github.com/itradebtc/doctorsimages/blob/main/Time%20Tracker.png?raw=true",
+      "github": "https://github.com/itradebtc/random/blob/main/src/timer.html",
+      "site": "https://itradebtc.github.io/random/src/timer.html",
+  },
+  {
+      "id": 4,
+      "name": "password",
+      "title": "Password Generator",
+      "madeWith": ["Html, Css, Javascript"],
+      "image": "https://github.com/itradebtc/doctorsimages/blob/main/Password%20Generator.png?raw=true",
+      "github": "https://github.com/itradebtc/random/blob/main/src/passwordgenerator.html",
+      "site": "https://itradebtc.github.io/random/src/passwordgenerator.html",
+  },
+  {
+      "id": 5,
+      "name": "countDown",
+      "title": "Birthday Count Down",
+      "madeWith": ["Html, Css, Javascript"],
+      "image": "https://github.com/itradebtc/doctorsimages/blob/main/Birthday%20Countdown.png?raw=true",
+      "github": "https://github.com/itradebtc/random/blob/main/src/birthdaycountdown.html",
+      "site": "https://itradebtc.github.io/random/src/birthdaycountdown.html",
+  },
+  {
+      "id": 6,
+      "name": "cloak",
+      "title": "Digital Cloak",
+      "madeWith": ["Html, Css, Javascript"],
+      "image": "https://github.com/itradebtc/doctorsimages/blob/main/Digital%20Cloak.png?raw=true",
+      "github": "https://github.com/itradebtc/random/blob/main/src/cloak2.html",
+      "site": "https://itradebtc.github.io/random/src/cloak2.html",
+  },
+  {
+      "id": 7,
+      "name": "bmi",
+      "title": "Bmi Calculator",
+      "madeWith": ["Html, Css, Javascript"],
+      "image": "https://github.com/itradebtc/doctorsimages/blob/main/Screenshot%202023-08-22%20at%204.26.47%20PM.png?raw=true",
+      "github": "https://github.com/itradebtc/random/blob/main/src/bmicalculator.html",
+      "site": "https://itradebtc.github.io/random/src/bmicalculator.html",
+  }
+        ]
+}
